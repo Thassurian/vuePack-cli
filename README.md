@@ -22,7 +22,7 @@
 npm install
 
 # serve with hot reload at localhost:8080，开启热加载开发环境服务，默认地址是localhost:8080
-npm run dev
+npm start
 
 # build for production with minification，打包文件
 npm run build
